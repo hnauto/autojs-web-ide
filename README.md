@@ -2,6 +2,9 @@
 
 运行在WEB上的[Auto.js](https://github.com/hyb1996/Auto.js)在线编辑器，用于替代桌面版Visual Studio Code。可以在线进行代码编辑、打包、运行(需连接运行Auto.js的手机，仅支持4.1.1版)。
 
+# Demo
+[线上测试访问地址](http://autojs.xyz)
+
 ## Install
 
 Install 
